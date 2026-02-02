@@ -11,11 +11,11 @@
 
 ---
 
-I build AI/ML systems that ship to production - from LLM fine-tuning and RAG pipelines to computer vision and real-time signal processing.
+I build AI/ML systems that ship to production. From LLM fine-tuning and RAG pipelines to computer vision and real-time signal processing.
 
 🔬 **Research & Academia:** Featured editor on a linear algebra textbook. Published work on contactless vitals monitoring using near-infrared Time-of-Flight cameras, computer vision, and ML.
 
-🛠️ **Currently:** Building AI-powered developer tools and platforms at GEICO serving thousands of engineers - fine-tuning LLMs, synthetic data pipelines, and cross-cloud ML infrastructure.
+🛠️ **Currently:** Building AI-powered developer tools and platforms at GEICO serving thousands of engineers. Fine-tuning LLMs, synthetic data pipelines, and cross-cloud ML infrastructure.
 
 🎓 **Previously:** Led ML engineering at Omni Sciences, shipping a contactless heart rate sensor from 0→1 (reverse-engineered hardware, taught myself Fourier transforms, ran faster than real-time).
 
